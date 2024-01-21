@@ -1963,7 +1963,7 @@ top panel
   pointer-events: none;
   display: block;
   min-width: 200px;
-  padding: 30px;
+  padding: 15px;
   background-color: rgb(188, 255, 0);
   transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
 }
